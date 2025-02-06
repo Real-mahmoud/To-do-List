@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+h1 {
+    color: rgb(92, 35, 35);
+}
+#text {
+    width: 600px;
+    height: 30px;
+    box-shadow: 2px 2px 2px gray;
+    border: 1px solid gray;
+    background-color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    
+}
+#add {
+    font-size: 17px;
+    margin: 0px 20px;
+    width: 55px;
+    height: 35px;
+    background-color: #0ba2d2;
+    border: 0px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#add:active{
+    background-color: gray;
+}
+table {
+    margin: 30px auto;
+    width: 60%;
+}
+th {
+    color: white;
+    font-weight: bold;
+    background-color:rgb(208, 52, 52) !important;
+}
+tr {
+    font-size: 22px;
+    color: rgb(160, 68, 68);
+}
+img {
+    width: 20px;
+    cursor: pointer;
+    color: rgb(243, 243, 243);
+}
