@@ -41,6 +41,9 @@ tr {
     font-size: 22px;
     color: rgb(160, 68, 68);
 }
+tr:nth-child(odd) {
+    background-color: #f3f3f3;
+}
 img {
     width: 20px;
     cursor: pointer;
